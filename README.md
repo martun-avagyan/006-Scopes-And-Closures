@@ -1,1 +1,6 @@
-# 006ScopesAndClosures
+# ScopesAndClosures
+
+- Partial Sum
+- Redundant
+- Suffix
+- Print After
